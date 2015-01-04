@@ -1,12 +1,12 @@
 {
   "site": {
-    "name": "CSViz",
+    "name": "gpe",
     "description": "The CSViz Demo App",
     "url": "http://csviz.org",
     "logo": "http://csviz.dev.wiredcraft.com/assets/images/logo.png"
   },
   "ui": {
-    "legend": false,
+    "legend": true,
     "choropleth": [
       "#42c6da",
       "#3cb9ec",
