@@ -23,6 +23,15 @@
     },
     "Year": {
       "type": "year"
-    }
+    },
+    "_of_missing_data_domestic_financing": {
+     "description": "% of missing data, domestic financing (%)",
+     "display": "{{ currentIndicator }}%",
+     "name": "% of missing data, domestic financing (%)",
+     "precision": 2,
+     "source_file": "% of missing data, domestic financing (%)-reformatted.csv",
+     "tooltip": "tooltip: {{ currentIndicator }}%",
+     "type": "number"
+   }
   }
 }
